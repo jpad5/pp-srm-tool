@@ -131,8 +131,10 @@ The master data lists are to be maintained by admins.
 5. For the listed table, **RPA Task List**, select the option *import data from the Excel*
 6. Upload the file [*ff_rpatasklists.csv*](/ff_rpatasklists.csv)
 7. Map the data as below - 
+   
 ![RPA Task List import data mapping](/assets/images/md-map-1.jpg)
-1. Make sure the data import successfully imported the data rows in the table
+
+8. Make sure the data import successfully imported the data rows in the table
 
 * <b> RPA Role Task List </b>
 1. Go to make.powerapps.com (<http://make.powerapps.com>)
@@ -141,9 +143,12 @@ The master data lists are to be maintained by admins.
 4. Search for *RPA Roles Mapped to Task*
 5. For the listed table, **RPA Roles Mapped To Task**, select the option *import data from the Excel*
 6. Upload the file [*ff_rparoletasklists.csv*](/ff_rparoletasklists.csv)
-7. Map the data as below - 
+7. Map the data as below -
+
+
 ![RPA Task List import data mapping](/assets/images/md-map-1.jpg)
-1. Make sure the data import successfully imported the data rows in the table
+
+8. Make sure the data import successfully imported the data rows in the table
 
 ### Walk through of RPA_Reviewer_Role
 ![](/assets/videos/reviewer-demo.gif)
